@@ -1,1 +1,0 @@
-import{b as t}from"./index-3fevySbJ.js";import{a as n}from"./axios-CZiCNYTv.js";const f=t(({app:o})=>{n.get("/configs/config.json").then(a=>{o.config.globalProperties.$config=a.data})});export{f as default};

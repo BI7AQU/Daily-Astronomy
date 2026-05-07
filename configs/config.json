@@ -1,9 +1,9 @@
 {
   "bookTitle": "浙里天文",
-  "bookRelease": "260204立春",
+  "bookRelease": "第19期",
   "imageSources": [
-    "/img/"
+    "/Daily-Astronomy/img/"
   ],
   "imageFilePrefix": "",
-  "imageMaxNum": "9"
+  "imageMaxNum": "6"
 }
