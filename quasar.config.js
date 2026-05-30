@@ -49,7 +49,7 @@ export default defineConfig((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/',
+      publicPath: '/Daily-Astronomy/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
