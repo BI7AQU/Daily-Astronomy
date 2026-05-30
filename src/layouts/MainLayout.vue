@@ -52,12 +52,6 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
   {
-    title: '浙江省高校天文联盟',
-    caption: '793964660',
-    icon: 'fa-brands fa-qq',
-    link: 'https://qm.qq.com/q/NZxKP7unOG'
-  },
-  {
     title: '微信公众号',
     caption: '浙天盟',
     icon: 'fa-brands fa-weixin',
@@ -67,7 +61,7 @@ const linksList = [
     title: '星空飨宴',
     caption: 'Star Parties',
     icon: 'fa-solid fa-star',
-    link: 'https://aunu.steveling.cn/'
+    link: 'https://sp.steveling.cn/'
   },
   {
     title: 'Github仓库',
