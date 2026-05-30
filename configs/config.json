@@ -2,7 +2,7 @@
   "bookTitle": "浙里天文",
   "bookRelease": "第19期",
   "imageSources": [
-    "/Daily-Astronomy/img/"
+    "/img/"
   ],
   "imageFilePrefix": "",
   "imageMaxNum": "6"
